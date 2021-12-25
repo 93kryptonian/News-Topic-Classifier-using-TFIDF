@@ -5,7 +5,7 @@
 - Nowadays, people change their behaviour to get the information from Newspaper and Television to Online news Portal So there are so many News Portal out there, to become stand out and the best one, News Portal not only have to give a Actual and Factual News but also give a Good User Experience too.
 
 ## Goals
-- In order to imcrease and improve a Good User Experience, we will try make a Machine Learning Modelling that Can give related articles based on Topics that User use in Search-bar  
+- In order to increase and improve a Good User Experience, we will try make a Machine Learning Modelling that Can give related articles based on Topics that User use in Search-bar  
 - So when user search a topic, we will give them not only News that have same article-tags but also based on the content itself
 
 ===============================================================================================================
